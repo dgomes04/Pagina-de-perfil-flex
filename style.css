@@ -6,12 +6,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-h1{
-    text-align: center;
-}
-body{
-    background-color: #111; 
-}
+
 
 /* posicionamento dados de usuario */
 .main{
@@ -97,15 +92,12 @@ body{
 }
 /* Estilizaçao */
 
-/* .titulo-alterar h1::after{
-    content: '';
-    display: block;
-    height: 0.3rem;
-    background-color: #eb2f06;
-    margin: 0 auto;
-    position: absolute;
-    border-radius: 10px; 
-}*/
+h1{
+    text-align: center;
+}
+body{
+    background-color: #111; 
+}
 
 .conteudo-principal-esquerda{
     
